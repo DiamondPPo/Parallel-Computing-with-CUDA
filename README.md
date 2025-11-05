@@ -3,7 +3,7 @@
 ## ไฟล์ที่ใช้งาน
 
 - `sequential.c` - Sequential implementation (CPU)
-- `parallel.cu` - Parallel implementation (GPU + CPU hybrid)
+- `parallel.cu` - Parallel implementation (GPU)
 - `crypto_prices.csv` - Dataset (390 cryptocurrencies, 465,146 data points)
 
 ## การคอมไพล์
